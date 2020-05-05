@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ajschlander/Developer-Profile-Generator.git"
+    "url": "git+https://github.com/madisonschrews/Developer-Profile-Generator.git"
   },
   "keywords": [
     "developer",
@@ -18,9 +18,9 @@
   "author": "Austin Schlander",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ajschlander/Developer-Profile-Generator/issues"
+    "url": "https://github.com/madisonschrews/Developer-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/Ajschlander/Developer-Profile-Generator#readme",
+  "homepage": "https://github.com/madisonschrews/Developer-Profile-Generator#readme",
   "dependencies": {
     "axios": "^0.19.0",
     "electron": "^5.0.12",
